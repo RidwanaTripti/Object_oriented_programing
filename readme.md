@@ -1,1 +1,2 @@
-**Basic of OOP**
+#  What is Object oriented programing
+   Object-oriented programming is a programming paradigm based on the concept of "objects", which can contain data and code. The data is in the form of fields, and the code is in the form of procedures. A common feature of objects is that procedures are attached to them and can access and modify the object's data fields. OOP used in many programming languages, such as Dart, Java, C++, Python, etc.
