@@ -18,5 +18,16 @@
    6. Abstraction
 
    ## CLASS
-   Classes are user define data type that act as the blueprint for indivual objects,attributes and methods.
-   
+   Classes are user define data type that act as the blueprint for indivual objects,attributes and methods. Class has two parts -
+       
+         ##### Properties - variables in class defines as properties.Properties has two part -
+          1. local variable - when we use properties in method it called local variable and it can't use outside the method.
+          2. global variable - when we use properties in class but not inside method it called global properties/variable.global variable or properties can use any places.
+               
+         ##### methods - functions in class defines as methods.
+
+   ## Object
+   Real world entity.objects are the things you think about first in designing a program and they are also the units of code that are eventually derived from the process.
+
+* What is object and class in OOP? 
+      A class is a template for creating objects in a program, whereas the object is an instance (উদাহরণ/দৃষ্টান্ত) of a class. A class is a logical entity, while an object is a physical entity. A class does not allocate memory space; on the other hand, an object allocates memory space.
